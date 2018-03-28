@@ -1,0 +1,8 @@
+Las lineas verde y azul ilustran la linea de medicion de los sensores.
+
+La linea amarilla es la linea de medicion imaginaria que se tendria si solo hubiera un sensor.
+
+Se puede observar que el sensor 2 esta midiendo la distancia de un punto D referente a el mismo (linea verde), 
+mientras que el sensor 1 está midiendo otro punto en su linea de medición (linea azul).
+
+Para que el sensor1 mida aproximadamente el mismo punto que ha medido el sensor 2, el motor debe girar un angulo theta1, de forma que el pùnto D quede en la linea de medicion azul
